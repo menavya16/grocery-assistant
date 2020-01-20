@@ -1,0 +1,42 @@
+CREATE TABLE Sauces (
+[Tomato ] CHAR (50),
+Green CHAR (50),
+[Hot Sauce] CHAR (50),
+Romesco CHAR (50) 
+);
+
+CREATE TABLE Vegetables (
+[Turnip ] CHAR (50),
+Beans CHAR (50),
+[Carrots] CHAR (50),
+Spinach CHAR (50) 
+);
+
+CREATE TABLE Fruits (
+[Blueberry ] CHAR (50),
+Blackberry CHAR (50),
+[Orange] CHAR (50),
+Raspberry CHAR (50) 
+);
+
+CREATE TABLE Nuts (
+[Almonds ] CHAR (50),
+Cashews CHAR (50),
+[Walnuts] CHAR (50),
+Hazelnuts CHAR (50) 
+);
+
+
+CREATE TABLE Dairy (
+[Milk ] CHAR (50),
+Cheese CHAR (50),
+[Butter] CHAR (50),
+Yogurt CHAR (50) 
+);
+
+CREATE TABLE Miscellaneous (
+[Spatula ] CHAR (50),
+Dishwasher CHAR (50),
+[Pots] CHAR (50),
+Pans CHAR (50) 
+);
